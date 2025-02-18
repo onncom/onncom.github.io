@@ -162,4 +162,29 @@ h1, h2, h3, h4, h5, h6 {
 
 #featureCarousel {
     padding-bottom: 40px;
+}
+
+/* 네비게이션 메뉴 폰트 설정 */
+.navbar {
+    font-family: 'Gowun Dodum', 'Noto Sans KR', sans-serif;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-nav .nav-link {
+    font-family: 'Gowun Dodum', 'Noto Sans KR', sans-serif;
+    font-size: 1.1rem;
+}
+
+.navbar-custom .navbar-brand {
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+/* 드롭다운 메뉴 폰트 설정 */
+.navbar-custom .dropdown-menu {
+    font-family: 'Gowun Dodum', 'Noto Sans KR', sans-serif;
+}
+
+.navbar-custom .dropdown-item {
+    font-size: 1rem;
 } 
