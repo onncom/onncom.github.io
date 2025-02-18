@@ -40,7 +40,7 @@ subtitle: 교육을 통해 새로운 가치를 창출하는 온앤컴퍼니
 
 - **주소**: 전라남도 순천시 왕지지구 현대1차아파트
 - **전화**: 010-6757-0220
-- **이메일**: contact@onandcompany.com
+- **이메일**: charming_ok@naver.com
 - **웹사이트**: onncom.github.io
 
 ### 찾아오시는 길
