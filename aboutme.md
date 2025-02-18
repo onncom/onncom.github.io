@@ -1,16 +1,50 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Us
+subtitle: 교육을 통해 새로운 가치를 창출하는 온앤컴퍼니
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### 온앤컴퍼니는
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+기업과 조직의 성장을 위한 맞춤형 교육 솔루션을 제공하는 교육 전문 기업입니다. 
+우리는 교육을 통해 개인과 조직의 잠재력을 끌어내고, 지속 가능한 성장을 지원합니다.
 
-What else do you need?
+### 우리의 미션
 
-### My story
+> "교육을 통해 개인과 조직의 변화를 이끌어내어 더 나은 미래를 만듭니다"
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### 핵심 가치
+
+* **전문성** - 각 분야 최고의 전문가들과 함께합니다
+* **혁신성** - 끊임없는 연구와 개발로 새로운 교육 방법을 제시합니다
+* **신뢰성** - 고객과의 약속을 소중히 지키며 신뢰 관계를 구축합니다
+
+### 주요 교육 프로그램
+
+1. **리더십 개발 프로그램**
+   - 차세대 리더 양성 과정
+   - 임원 리더십 과정
+   - 중간관리자 역량 강화 과정
+
+2. **조직문화 혁신 프로그램**
+   - 기업문화 진단 및 개선
+   - 팀 빌딩 워크샵
+   - 조직 소통 활성화 프로그램
+
+3. **직무 역량 강화 프로그램**
+   - 비즈니스 커뮤니케이션
+   - 프로젝트 매니지먼트
+   - 문제해결 역량 강화
+
+### 연락처
+
+- **주소**: 전라남도 순천시 왕지지구 현대1차아파트
+- **전화**: 010-6757-0220
+- **이메일**: contact@onandcompany.com
+- **웹사이트**: onncom.github.io
+
+### 찾아오시는 길
+
+<div class="map-responsive">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3269.9857968090596!2d127.52835457620688!3d34.95696466941892!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x356e0e8ad2fb3e29%3A0x34cb622a08509d75!2z7JmV7KeA7ZiE64yAMeywqOyVhO2MjO2KuA!5e0!3m2!1sko!2skr!4v1739855879228!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+</div>
