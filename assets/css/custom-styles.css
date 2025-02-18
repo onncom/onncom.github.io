@@ -187,4 +187,67 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-custom .dropdown-item {
     font-size: 1rem;
+}
+
+/* 포스트 목록 스타일 */
+.posts-list {
+    margin-top: 2rem;
+}
+
+.post-preview {
+    padding: 1.5rem 0;
+    border-bottom: 1px solid #eee;
+}
+
+.post-preview:last-child {
+    border-bottom: none;
+}
+
+.post-title {
+    font-size: 1.8rem;
+    margin-top: 0;
+}
+
+.post-subtitle {
+    font-size: 1.2rem;
+    font-weight: normal;
+    margin: 0 0 0.5rem 0;
+    color: #666;
+}
+
+.post-meta {
+    color: #808080;
+    font-size: 0.9rem;
+    font-style: italic;
+    margin: 0 0 0.5rem 0;
+}
+
+.post-entry {
+    color: #666;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.post-read-more {
+    font-weight: 500;
+    color: #008AFF;
+}
+
+.blog-tags {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+}
+
+.blog-tags a {
+    color: #666;
+    background: #f0f0f0;
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+    margin-right: 0.3rem;
+}
+
+.blog-tags a:hover {
+    background: #008AFF;
+    color: white;
+    text-decoration: none;
 } 
