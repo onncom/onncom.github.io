@@ -47,9 +47,9 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "charming_ok@naver.com"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: ㅇ
+  facebook: simisimedaily
   instagram: hrdcurator_ok
   #github: daattali
   #twitter: daattali
@@ -108,6 +108,9 @@ excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
+
+# Add a separator between excerpts and posts
+excerpt_separator: <!--more-->
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: true
