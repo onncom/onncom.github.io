@@ -1,0 +1,22 @@
+.small-text {
+    font-size: 0.7em !important;
+    font-weight: normal !important;
+    display: inline-block;
+    vertical-align: middle;
+    font-family: 'Gowun Batang', serif !important;
+}
+
+.page-heading h1 {
+    display: inline-block;
+    font-size: 2.5em !important;
+}
+
+/* 전체 사이트의 한글에 대한 폰트 설정 */
+body {
+    font-family: 'Gowun Dodum', 'Noto Sans KR', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* 제목에 대한 폰트 설정 */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Gowun Batang', serif;
+} 
