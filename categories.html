@@ -1,0 +1,29 @@
+---
+layout: page
+title: Categories
+subtitle: 온앤컴퍼니의 교육 콘텐츠
+---
+
+<div class="categories-list">
+  {% for category in site.categories %}
+  <div class="category-section">
+    <h2 id="{{ category[0] | slugify }}" class="category-title">
+      {{ category[0] }}
+      <span class="badge">{{ category[1].size }}</span>
+    </h2>
+    <ul class="post-list">
+      {% for post in category[1] %}
+      <li class="post-item">
+        <div class="post-meta">{{ post.date | date: "%Y년 %m월 %d일" }}</div>
+        <h3>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          {% if post.subtitle %}
+          <small class="post-subtitle">{{ post.subtitle }}</small>
+          {% endif %}
+        </h3>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
+</div> 
